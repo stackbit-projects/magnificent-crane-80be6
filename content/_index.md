@@ -5,7 +5,9 @@ sections:
     title: 'Practical, No BS, Expert Advice on Cybersecurity'
     subtitle: Trusted action-oriented advice on security and privacy.
     content: |
-      Once a week to your inbox. Short to read. 
+      Once a week to your inbox. Short to read.
+
+
       Easy to understand. Quick to implement.
     actions:
       - label: Get the book
