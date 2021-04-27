@@ -4,10 +4,8 @@ sections:
   - type: hero_section
     title: 'Practical, No BS, Expert Advice on Cybersecurity'
     subtitle: Trusted action-oriented advice on security and privacy.
-    content: |-
-      This book is your go-to guide for all marketing channels. Learn how to
-      create effective landing pages, compelling ads, creative copywriting and
-      converting marketing materials for any business.
+    content: |
+      Once a week to your inbox. Short to consume, quick to implement.
     actions:
       - label: Get the book
         url: /pricing
