@@ -9,7 +9,7 @@ sections:
 
       Quick to implement.
     actions:
-      - label: Get the book
+      - label: Sign Up Now
         url: /pricing
         style: primary
         has_icon: true
