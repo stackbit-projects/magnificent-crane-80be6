@@ -50,7 +50,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Full Chapter  Overview
+    title: What Do You Get
     grid_items:
       - content: |-
           ### Know Your Audience
