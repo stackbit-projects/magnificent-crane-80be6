@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Improve Your Security & Privacy Dramatically with 5 min
+    title: Practical Expert Advice on Cybersecurity in Plain English
     subtitle: Your guide to B2B marketing in the real world.
     content: |-
       This book is your go-to guide for all marketing channels. Learn how to
