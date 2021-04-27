@@ -60,7 +60,7 @@ sections:
     title: How It Works?
     grid_items:
       - content: >
-          ### Scheduled emails
+          ### Scheduled Emails
 
 
           Week by week, you get once actionable advice on security or privacy.
