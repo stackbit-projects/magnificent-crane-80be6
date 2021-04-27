@@ -25,7 +25,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: What’s Inside
+      - title: Is this a Newsletter or a Course?
         subtitle: How this book will teach you real world marketing
         content: |-
           - All you need to know about PPC
