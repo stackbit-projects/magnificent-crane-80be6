@@ -66,12 +66,13 @@ sections:
           Week by week, you get once actionable advice on security or privacy.
           The emails are structured and sent by importance and the impact on
           your security.
-      - content: >-
-          ### Performance Marketing
+      - content: >
+          ### Realtime Emails
 
 
-          Know your PPC from your CPA and CTR — a quick start guide to
-          performance marketing channels, setups, budgeting and creative.
+          Every once in a while, you'll get important advice on recent events in
+          cybersecurity world. For example: critical bug discovered in iOS,
+          update ASAP. 
       - content: |-
           ### The Truth About Branding
 
