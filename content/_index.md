@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: 'Practical, No BS, Expert Advice on Cybersecurity'
     subtitle: Trusted action-oriented advice on security and privacy.
-    content: |
-      Once a week to your inbox. Short to consume, quick to implement.
+    content: >
+      Once a week to your inbox. Short to consume, quick to implement. In plain
+      English.
     actions:
       - label: Get the book
         url: /pricing
