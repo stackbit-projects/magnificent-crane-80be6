@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Practical, No BS, Expert Advice on Cybersecurity'
-    subtitle: Your guide to B2B marketing in the real world.
+    subtitle: Trusted action-oriented advice on security and privacy.
     content: |-
       This book is your go-to guide for all marketing channels. Learn how to
       create effective landing pages, compelling ads, creative copywriting and
