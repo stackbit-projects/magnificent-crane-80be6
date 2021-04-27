@@ -57,7 +57,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: What Do You Get
+    title: How It Works?
     grid_items:
       - content: |-
           ### Know Your Audience
