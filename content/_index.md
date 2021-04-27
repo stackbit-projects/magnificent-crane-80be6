@@ -27,14 +27,21 @@ sections:
     features:
       - title: Is this a Newsletter or a Course?
         subtitle: It's a mix of the best feaures of both.
-        content: |-
-          - All you need to know about PPC
-          - How to create a brand that sells
-          - Putting together a multi-channel marketing plan
-          - Tracking, attribution and analytics
-          - Analyzing your competitors
-          - Marketing ads no one can ignore
-          - The social media of today
+        content: >
+          *   You get one actionable advice on security or privacy per week
+
+          *   The lessons come in a structured order
+
+          *   Structured lessons improve understanding and your progress (fix
+          the most important first!)
+
+          *   Every once in a while - you'll get additional emails
+
+          *   Analyzing your competitors
+
+          *   Marketing ads no one can ignore
+
+          *   The social media of today
         actions:
           - label: Start learning
             url: /thank-you
