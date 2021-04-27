@@ -59,11 +59,13 @@ sections:
   - type: grid_section
     title: How It Works?
     grid_items:
-      - content: |-
-          ### Know Your Audience
+      - content: >
+          ### Scheduled emails
 
-          Discovery, research and pure intuition: How to slice and dice all the
-          information you can gather about your customers.
+
+          Week by week, you get once actionable advice on security or privacy.
+          The emails are structured and sent by importance and the impact on
+          your security.
       - content: >-
           ### Performance Marketing
 
